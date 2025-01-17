@@ -1,0 +1,6 @@
+INSERT INTO tipos (Type)
+VALUES ('Texto'),
+       ('Figura'),
+       ('Link para página'),
+       ('Link para vídeo'),
+       ('Referencia');

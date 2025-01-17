@@ -1,0 +1,5 @@
+CREATE TABLE areas (
+    IdArea INT AUTO_INCREMENT PRIMARY KEY,  -- ID numérico, único, chave primária e auto incremental
+    Name VARCHAR(100),                      -- Nome da área (ex: Álgebra, Geometria)
+    Description TEXT                        -- Descrição da área
+);

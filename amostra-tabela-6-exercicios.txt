@@ -1,0 +1,12 @@
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,1,1,1,1,'Escreva por extenso o número: 421');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,2,1,1,2,'Escrito por extenso: Quatrocentos e vinte e um');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,3,1,1,2,'Esse número é composto por três dígitos: 4 (centenas), 2 (dezenas) e 1 (unidade).');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,4,1,2,1,'Escreva por extenso o número: 1 873');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,5,1,2,2,'Escrito por extenso: Mil oitocentos e setenta e três');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,6,1,2,2,'O número é composto por 4 dígitos: 1 na casa dos milhar, 8 na casa das centenas, 7 na casa das dezenas e 3 na casa das unidades.');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,7,1,3,1,'Escreva por extenso o número: 72 409');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,8,1,3,2,'Escrito por extenso: Setenta e dois mil, quatrocentos e nove');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,9,1,4,1,'Escreva por extenso o número:  635 208');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,10,1,4,2,'Escrito por extenso: Seiscentos e trinta e cinco mil, duzentos e oito');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,11,1,5,1,'Escreva por extenso o número: 5 287 631 409');
+INSERT INTO exercicios (IdCon, Orderr, Type, Exercise, Phase, Exercise_Content) VALUES (1,12,1,5,2,'Escrito por extenso: Cinco bilhões, duzentos e oitenta e sete milhões, seiscentos e trinta e um mil, quatrocentos e nove');
