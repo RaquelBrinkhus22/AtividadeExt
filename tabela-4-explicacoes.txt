@@ -1,8 +1,0 @@
-CREATE TABLE explicacoes (
-    IdText INT AUTO_INCREMENT PRIMARY KEY,  -- ID numérico, único, chave primária e auto incremental
-    IdCon INT,                             -- Chave estrangeira que faz referência à tabela 'conteudos'
-    Orderr INT,                             -- Ordem da explicação (para organizar as explicações)
-    Type INT,                              -- Tipo do dado
-    Content TEXT,                          -- Conteúdo da explicação (texto explicativo)
-    FOREIGN KEY (IdCon) REFERENCES conteudos(IdCon)  -- Relacionamento com a tabela 'conteudos'
-);
