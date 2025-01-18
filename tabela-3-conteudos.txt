@@ -1,6 +1,0 @@
-CREATE TABLE conteudos (
-    IdCon INT AUTO_INCREMENT PRIMARY KEY,  -- ID numérico, único, chave primária e auto incremental
-    Content TEXT,                          -- Conteúdo didático (conforme curriculo )
-    IdSub INT,                             -- Chave estrangeira que faz referência à tabela 'subareas'
-    FOREIGN KEY (IdSub) REFERENCES subareas(IdSub)  -- Relacionamento com a tabela 'subareas'
-);
