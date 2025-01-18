@@ -1,7 +1,0 @@
-INSERT INTO subareas (Name, IdArea, Description) VALUES ('Sistema de Numeração e Operações com Números',1,'Compreende o estudo do sistema de numeração decimal, leitura, escrita e operações com números naturais e racionais.')
-INSERT INTO subareas (Name, IdArea, Description) VALUES ('Resolução de Problemas com Operações Matemáticas',1,'Foca na resolução de problemas envolvendo adição, subtração, multiplicação, divisão de números racionais e naturais.')
-INSERT INTO subareas (Name, IdArea, Description) VALUES ('Álgebra e Propriedades das Equações',2,'Estudo de expressões algébricas, propriedades da igualdade, resolução de equações e noções de equivalência.')
-INSERT INTO subareas (Name, IdArea, Description) VALUES ('Geometria no Plano Cartesiano',3,'Estudo da geometria no plano cartesiano, incluindo interpretação e representação de pontos e movimentos.')
-INSERT INTO subareas (Name, IdArea, Description) VALUES ('Geometria de Figuras Espaciais',3,'Estudo de figuras geométricas tridimensionais, suas representações e propriedades, como prismas e pirâmides.')
-INSERT INTO subareas (Name, IdArea, Description) VALUES ('Grandezas e Medidas de Comprimento e Área',4,'Envolve as unidades de medidas convencionais e suas transformações, aplicadas ao comprimento, área e volume.')
-INSERT INTO subareas (Name, IdArea, Description) VALUES ('Probabilidade e Estatística',5,'Estudo de probabilidades e análise de dados em experimentos aleatórios, utilizando gráficos e tabelas.')
