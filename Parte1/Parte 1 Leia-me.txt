@@ -1,0 +1,3 @@
+Parte 1: 
+A parte 1 se refere as tabelas em MySQL
+Existem 7 scripts de criação das tabelas e mais 7 scripts com amostras dos conteudos das tabelas 
