@@ -1,5 +1,0 @@
-INSERT INTO areas (Name, Description) VALUES ('Números','Estudo dos números naturais, racionais e suas operações, incluindo as representações decimais e fracionárias.')
-INSERT INTO areas (Name, Description) VALUES ('Álgebra','Estudo das relações entre quantidades e as manipulações algébricas, como resolução de equações e problemas matemáticos.')
-INSERT INTO areas (Name, Description) VALUES ('Geometria','Estudo das propriedades e relações dos objetos geométricos, tanto no plano como no espaço tridimensional.')
-INSERT INTO areas (Name, Description) VALUES ('Grandezas e Medidas','Estudo de diferentes unidades de medida (comprimento, área, volume, etc.) e as relações entre elas.')
-INSERT INTO areas (Name, Description) VALUES ('Probabilidade e Estatística','Análise de dados e a avaliação de probabilidades associadas a eventos aleatórios e situações cotidianas.')
