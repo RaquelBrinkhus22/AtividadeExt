@@ -1,7 +1,0 @@
-CREATE TABLE subareas (
-    IdSub INT AUTO_INCREMENT PRIMARY KEY,   -- ID numérico, único, chave primária e auto incremental
-    Name VARCHAR(100),                       -- Nome da subárea (ex: Álgebra Linear, Geometria Analítica)
-    IdArea INT,                              -- Chave estrangeira que faz referência à tabela 'areas'
-    Description TEXT,                        -- Descrição da subárea
-    FOREIGN KEY (IdArea) REFERENCES areas(IdArea)  -- Relacionamento com a tabela 'areas'
-);
