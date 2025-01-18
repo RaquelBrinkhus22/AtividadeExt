@@ -1,4 +1,0 @@
-CREATE TABLE tipos (	
-    IdType INT AUTO_INCREMENT PRIMARY KEY,  -- ID numérico, único, chave primária e auto incremental	
-    Type VARCHAR(100)                       -- Tipo de dado (texto, figura, ...)	
-);	
